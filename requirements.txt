@@ -15,7 +15,6 @@ altair==5.2.0
 anaconda-catalogs==0.2.0
 anaconda-client==1.13.0
 anaconda-cloud-auth
-anaconda-navigator
 anaconda-project
 annotated-types
 anyio
